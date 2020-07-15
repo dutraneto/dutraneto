@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is José Dutra 👨🏽‍💻
+My name is José Dutra 👨🏽‍💻 🇨🇦
 
 I worked at The Brazilian Army Forces as a Sergeant for
 the past 16 years. However, my passion for programming has got me
