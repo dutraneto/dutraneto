@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is José Dutra. 
+
+I worked at The Brazilian Army Forces as a Sergeant for
+the past 16 years. However, my passion for programming has got me
+following a new career change as a Frontend Developer. My interest in
+programming languages, such as JavaScript, drove me to specializing
+currently in Frontend Development.
