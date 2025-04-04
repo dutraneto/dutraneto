@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website Badge](https://img.shields.io/badge/Website-dutraneto.tech-black)]([https://dutraneto.tech](https://dutraneto.vercel.app))
+[![Website Badge](https://img.shields.io/badge/Website-dutraneto.tech-black)](https://dutraneto.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dutraneto)](https://www.linkedin.com/in/dutraneto)
 
 <div align="center">
